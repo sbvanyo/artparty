@@ -4,7 +4,7 @@ from .artwork import Artwork
 
 class Comment(models.Model):
 
-    user_id = models.ForeignKey(User, on_delete=models.CASCADE)
-    artwork_id = models.ForeignKey(Artwork, on_delete=models.CASCADE)
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
+    artwork = models.ForeignKey(Artwork, on_delete=models.CASCADE)
     content = models.CharField(max_length=50)
     created_on = models.DateTimeField()

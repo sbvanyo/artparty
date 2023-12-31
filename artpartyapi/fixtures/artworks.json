@@ -1,0 +1,47 @@
+[
+  {
+    "model": "artpartyapi.artwork",
+    "pk": 1,
+    "fields": {
+      "user_id": 1,
+      "artist_id": 1,
+      "collection_id": 1,
+      "title": "Moth Takes a Walk",
+      "img": "https://static.vecteezy.com/system/resources/previews/009/418/837/original/paint-palette-clipart-free-png.png",
+      "medium": "Digital",
+      "description": "Illustration of a yellow moth prioritizing her health",
+      "date_created": "2023-12-20",
+      "age_created": 32
+    }
+  },
+  {
+    "model": "artpartyapi.artwork",
+    "pk": 2,
+    "fields": {
+      "user_id": 1,
+      "artist_id": 2,
+      "collection_id": 2,
+      "title": "Potato Family",
+      "img": "https://static.vecteezy.com/system/resources/previews/009/418/837/original/paint-palette-clipart-free-png.png",
+      "medium": "Colored pencil",
+      "description": "A family of potato people floats in space",
+      "date_created": "2023-11-08",
+      "age_created": 3
+    }
+  },
+  {
+    "model": "artpartyapi.artwork",
+    "pk": 3,
+    "fields": {
+      "user_id": 1,
+      "artist_id": 3,
+      "collection_id": 3,
+      "title": "Big Bad Scribbles",
+      "img": "https://static.vecteezy.com/system/resources/previews/009/418/837/original/paint-palette-clipart-free-png.png",
+      "medium": "Crayon",
+      "description": "Such expressive scribbles!",
+      "date_created": "2023-09-28",
+      "age_created": 0
+    }
+  }
+]

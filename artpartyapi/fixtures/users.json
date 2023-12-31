@@ -1,0 +1,15 @@
+[
+  {
+    "model": "artpartyapi.user",
+    "pk": 1,
+    "fields": {
+      "first_name": "Stacey",
+      "last_name": "Vanyo",
+      "email": "sbvanyo@gmail.com",
+      "bio": "Making shit with code and colored pencils",
+      "prof_pic": "",
+      "created_on": "2023-12-31",
+      "uid": ""
+    }
+  }
+]
