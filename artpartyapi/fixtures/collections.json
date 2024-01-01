@@ -1,0 +1,23 @@
+[
+  {
+    "model": "artpartyapi.collection",
+    "pk": 1,
+    "fields": {
+      "title": "Inktober 2023"
+    }
+  },
+  {
+    "model": "artpartyapi.collection",
+    "pk": 2,
+    "fields": {
+      "title": "Family Portraits"
+    }
+  },
+  {
+    "model": "artpartyapi.collection",
+    "pk": 3,
+    "fields": {
+      "title": "Baby Scribs"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "model": "artpartyapi.artist",
+    "pk": 1,
+    "fields": {
+      "name": "Stacey"
+    }
+  },
+  {
+    "model": "artpartyapi.artist",
+    "pk": 2,
+    "fields": {
+      "name": "Jo"
+    }
+  },
+  {
+    "model": "artpartyapi.artist",
+    "pk": 3,
+    "fields": {
+      "name": "Milo"
+    }
+  }
+]
