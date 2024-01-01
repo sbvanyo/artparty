@@ -1,0 +1,23 @@
+[
+  {
+    "model": "artpartyapi.tag",
+    "pk": 1,
+    "fields": {
+      "label": "digital"
+    }
+  },
+  {
+    "model": "artpartyapi.tag",
+    "pk": 2,
+    "fields": {
+      "label": "people"
+    }
+  },
+  {
+    "model": "artpartyapi.tag",
+    "pk": 3,
+    "fields": {
+      "label": "scribbles"
+    }
+  }
+]

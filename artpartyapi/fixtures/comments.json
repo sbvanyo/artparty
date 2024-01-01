@@ -1,0 +1,32 @@
+[
+  {
+    "model": "artpartyapi.comment",
+    "pk": 1,
+    "fields": {
+      "user": 1,
+      "artwork": 1,
+      "content": "such a cute moth",
+      "created_on": "2024-01-01T03:53:27Z"
+    }
+  },
+  {
+    "model": "artpartyapi.comment",
+    "pk": 2,
+    "fields": {
+      "user": 1,
+      "artwork": 2,
+      "content": "love the hair!",
+      "created_on": "2024-01-01T03:54:05Z"
+    }
+  },
+  {
+    "model": "artpartyapi.comment",
+    "pk": 3,
+    "fields": {
+      "user": 1,
+      "artwork": 3,
+      "content": "great colors",
+      "created_on": "2024-01-01T03:58:33Z"
+    }
+  }
+]
